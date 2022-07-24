@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @0xAnonymoose
 - 👀 technologist // blockchain research // decentralized systems development
 - 📫 [Twitter](https://twitter.com/Anonym0ose_)
+- [Telegram](https://t.me/ChainSpider)
 
 <!---
 0xAnonymoose/0xAnonymoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
